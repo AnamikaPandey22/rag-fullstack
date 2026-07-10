@@ -1,5 +1,3 @@
-![Repository Banner](banner.png)
-
 # 🚀 RAG Full Stack Backend
 
 <p align="center">
